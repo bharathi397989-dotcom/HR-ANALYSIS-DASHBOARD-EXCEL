@@ -33,19 +33,27 @@ The dashboard includes employee attrition analysis, department-wise workforce di
 
 ## Key Business Insights
 
-The dashboard is designed to help identify:
+1. Employee Attrition: Out of 1,000 employees, 234 have left the organization, resulting in an overall attrition rate of 23.40%.
 
-- Employee groups with higher attrition.
-- Trends in employee resignations over time.
-- Workforce distribution across departments and locations.
-- Potential areas where employee retention can be improved.
+2. Department-wise Attrition: The Sales department recorded the highest number of resignations (60), followed by Technology (45) and Operations (44).
+
+3. Gender-wise Attrition: Male employees accounted for 125 resignations, while female employees accounted for 109.
+
+4. Workforce Retention: There are currently 766 active employees, representing 76.60% of the dataset.
+
+5. Year-wise Attrition: The dashboard shows an increasing number of recorded resignations in recent years, reaching 56 in the latest year displayed.
 
 ## Business Recommendations
 
-- Investigate departments with relatively high attrition rates.
-- Monitor employee retention trends regularly.
-- Identify potential retention challenges across experience groups.
-- Use dashboard insights to support workforce planning.
+-Investigate the reasons behind employee resignations, particularly in departments with higher attrition counts.
+
+-Compare department-wise attrition rates to identify areas with greater retention challenges.
+
+-Conduct employee feedback surveys and exit interviews to understand the factors influencing resignations.
+
+-Monitor year-wise attrition trends to support employee retention planning.
+
+-Develop targeted employee engagement and retention strategies.
 
 ## Dashboard Preview
 ![HR Analytics Dashboard](HR%20DASHBOARD.PNG)
