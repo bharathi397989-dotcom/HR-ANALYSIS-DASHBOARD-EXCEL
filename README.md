@@ -30,7 +30,7 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![HR Attrition Dashboard](HR DASHBOARD.PNG)
+![HR Attrition Dashboard](HR%20DASHBOARD.PNG)
 
 ## Key Insights
 - The overall attrition rate is 23.40%.
